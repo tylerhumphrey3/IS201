@@ -9,7 +9,9 @@ h1{
 h2{
     color: lightpink;
     text-align: center;
+    background-color: blanchedalmond;
 }
+
 
 body{
     text-align: center;
@@ -28,16 +30,11 @@ li{
 }
 
 
-body{
-
+#top{
+    text-align:center;
     background-color: blanchedalmond;
 }
 
-
-
-#top{
-    text-align:center;
-}
 
 
 
